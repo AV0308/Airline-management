@@ -1,2 +1,2 @@
-# snake-game
-Snake Game  ·  Java · React.js · Node.js · Java Swing
+# Airline-management
+Airline mangement system ·  Java · React.js · Node.js · Java Swing
