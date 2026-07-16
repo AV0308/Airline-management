@@ -1,2 +1,2 @@
 # Airline-management
-Airline mangement system ·  Java · React.js · Node.js · Java Swing
+Airline mangement system ·  Java · Java Swing . Sql . NetBeans
